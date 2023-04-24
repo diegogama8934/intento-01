@@ -29,5 +29,4 @@ ReactDOM.createRoot( document.getElementById('root') ).render(
 
 /*
 Hewooloo
-prueba 2
 */
